@@ -2,10 +2,8 @@
 // then press Enter. You can now see whitespace characters in your code.
 public class Main {
     public static void main(String[] args) {
-
         int price = 10000; // стоимость билета
         int bonus = 20; // стоимость одной мили
-        System.out.println( price / bonus);
-
+        System.out.println(price / bonus);
     }
 }
